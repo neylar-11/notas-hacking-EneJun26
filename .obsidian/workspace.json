@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/3-General Skills 3/30 - Serpentine(duda al profe).md",
+                "file": "picoCTF/2-General Skills 2/20 - First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 - Serpentine(duda al profe)"
+              "title": "20 - First Find"
             }
           }
         ],
@@ -228,8 +228,18 @@
   },
   "active": "a7b8977d549703b1",
   "lastOpenFiles": [
-    "picoCTF/3-General Skills 3/29 - PW Crack 3(duda al profe).md",
+    "picoCTF/2-General Skills 2/19 - Big zip.md",
+    "picoCTF/2-General Skills 2/20 - First Find.md",
+    "picoCTF/2-General Skills 2/16 - Tab, Tab, Attack.md",
+    "picoCTF/2-General Skills 2/18 - Repetitions.md",
+    "picoCTF/2-General Skills 2/17 - Magikarp Ground Mission.md",
+    "picoCTF/2-General Skills 2/14 - Static ain't always noise.md",
+    "picoCTF/2-General Skills 2/15 - Useless.md",
+    "picoCTF/2-General Skills 2/13 - Wave a flag.md",
+    "picoCTF/2-General Skills 2/12 - Strings it.md",
+    "picoCTF/2-General Skills 2/11 - Based.md",
     "picoCTF/3-General Skills 3/30 - Serpentine(duda al profe).md",
+    "picoCTF/3-General Skills 3/29 - PW Crack 3(duda al profe).md",
     "picoCTF/3-General Skills 3/28 - PW Crack 2(duda al profe).md",
     "picoCTF/3-General Skills 3/27 - PW Crack 1(duda al profe).md",
     "picoCTF/3-General Skills 3/25 - fixme1.py.md",
@@ -243,20 +253,10 @@
     "picoCTF/1-General Skills/3-Warmed Up.md",
     "picoCTF/1-General Skills/2-2warm.md",
     "picoCTF/1-General Skills/1- Lets Warm Up.md",
-    "picoCTF/2-General Skills 2/11-Based.md",
     "plantilla.md",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
-    "picoCTF/2-General Skills 2.md",
-    "picoCTF/2-General Skills 2/12-Strings it.md",
-    "picoCTF/1-General Skills/7- what's a net cat.md",
-    "picoCTF/1-General Skills/8-Plumbing.md",
-    "picoCTF/1-General Skills/9-Glitch Cat.md",
-    "picoCTF/1-General Skills/10- Nice Cat....md",
-    "picoCTF/1-General Skills/6- Obedient Cat.md",
-    "README.md",
     "picoCTF/1-General Skills",
-    "picoCTF",
-    "Bienvenido.md"
+    "picoCTF"
   ]
 }
