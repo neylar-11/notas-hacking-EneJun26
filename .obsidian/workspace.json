@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/4 - Picoctf Web1/1 - Insp3ct0r.md",
+                "file": "picoCTF/5 - Picoctf Web2/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Insp3ct0r"
+              "title": "Scavenger Hunt"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "1f1abc4734b9c419",
@@ -242,8 +242,13 @@
   },
   "active": "0e0c6d6db751a739",
   "lastOpenFiles": [
-    "picoCTF/4 - Picoctf Web1/2 - where are the robots.md",
+    "picoCTF/5 - Picoctf Web2/GET aHEAD.md",
+    "picoCTF/5 - Picoctf Web2/Cookie.md",
+    "picoCTF/5 - Picoctf Web2/Scavenger Hunt.md",
+    "plantilla.md",
     "picoCTF/4 - Picoctf Web1/1 - Insp3ct0r.md",
+    "picoCTF/5 - Picoctf Web2",
+    "picoCTF/4 - Picoctf Web1/2 - where are the robots.md",
     "picoCTF/4 - Picoctf Web1/3 - logon.md",
     "picoCTF/4 - Picoctf Web1/5 - picobrowser.md",
     "picoCTF/4 - Picoctf Web1/4 - dont-use-client-side.md",
@@ -254,7 +259,6 @@
     "picoCTF/tarea 1 General skills/39 - binhexa.md",
     "picoCTF/tarea 1 General skills/38 - binary search.md",
     "picoCTF/tarea 1 General skills/37 - collaborative development (duda).md",
-    "plantilla.md",
     "picoCTF/tarea 1 General skills/36 - blame game.md",
     "picoCTF/tarea 1 General skills/35 - time machine.md",
     "picoCTF/tarea 1 General skills/32 - chrono.md",
@@ -267,9 +271,6 @@
     "tarea 1 General skills.md",
     "picoCTF/2-General Skills 2/18 - Repetitions.md",
     "picoCTF/3-General Skills 3/29 - PW Crack 3.md",
-    "picoCTF/3-General Skills 3/27 - PW Crack 1.md",
-    "picoCTF/3-General Skills 3/23 - Codebook.md",
-    "picoCTF/3-General Skills 3/20 - First Find.md",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
     "picoCTF/1-General Skills",
