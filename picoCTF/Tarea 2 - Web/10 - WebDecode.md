@@ -1,13 +1,13 @@
 # Reto
 ## Descripción
-Can you get the flag?Go to this [website](http://saturn.picoctf.net:56679/) and see what you can discover.
+Do you know how to use the web inspector?Start searching [here](http://titan.picoctf.net:63506/) to find the flag
 ## Solución
 ### Solucion
 
 ```
-al abrir el link si lo inspecionamos en sources encontramos algunos archivos y en esos estan las banderas
+me fui a about y me pidio que lo inspeccionara y con cyberchef me la dio
 ```
-picoCTF{1nclu51v17y_1of2_f7w_2of2_b8f4b022}
+picoCTF{web_succ3ssfully_d3c0ded_02cdcb59}
 ## Notas
 
 
