@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/18 - Retos Crypto 2/1 - rsa pop quiz (exp.py).md",
+                "file": "picoCTF/20 - Retos Crypto 4/5 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - rsa pop quiz (exp.py)"
+              "title": "5 - flags"
             }
           }
         ]
@@ -185,6 +185,19 @@
   },
   "active": "6bbeee4319219b0c",
   "lastOpenFiles": [
+    "Pasted image 20260422142457.png",
+    "Pasted image 20260422142047.png",
+    "Pasted image 20260422142041.png",
+    "picoCTF/20 - Retos Crypto 4/4 - ReadMyCert.md",
+    "picoCTF/20 - Retos Crypto 4/3 - HideToSee.md",
+    "picoCTF/20 - Retos Crypto 4/2 - basic-mod1.md",
+    "picoCTF/20 - Retos Crypto 4/1 - Pixelated.md",
+    "picoCTF/20 - Retos Crypto 4/5 - flags.md",
+    "picoCTF/20 - Retos Crypto 4/2.md",
+    "picoCTF/20 - Retos Crypto 4/plantilla 1 1.md",
+    "plantilla.md",
+    "picoCTF/18 - Retos Crypto 2/1 - rsa pop quiz (exp.py).md",
+    "picoCTF/20 - Retos Crypto 4",
     "Pasted image 20260327205026.png",
     "Pasted image 20260324212850.png",
     "Pasted image 20260319201337.png",
@@ -194,8 +207,6 @@
     "picoCTF/14 - Forensic 2/2 - WhitePages.md",
     "picoCTF/14 - Forensic 2/4 - like1000.md",
     "picoCTF/14 - Forensic 2/1 - m00nwalk.md",
-    "picoCTF/18 - Retos Crypto 2/1 - rsa pop quiz (exp.py).md",
-    "plantilla.md",
     "picoCTF/17 - Crypto/8 - interencdec.md",
     "picoCTF/18 - Retos Crypto 2",
     "picoCTF/17 - Crypto/7 - waves over lambda.md",
@@ -210,13 +221,6 @@
     "picoCTF/Competencia1/8 - Old Sessions.md",
     "picoCTF/Competencia1/7 - bytemancy 0.md",
     "picoCTF/Competencia1/6 - bytemancy 1.md",
-    "picoCTF/Competencia1/5 - Undo.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/9 - Ph4nt0m 1ntrud3r.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/8 - RED.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/7 - Secret of the Polyglot.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/6 - CanYouSee.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/5 - Scan Surprise.md",
-    "picoCTF/16.1 - Tarea 4 Forensic/4 - hideme.md",
     "picoCTF/16.1 - Tarea 4 Forensic",
     "picoCTF/16 -Forensic 4",
     "picoCTF/Examen1",
@@ -225,7 +229,6 @@
     "Sin título.canvas",
     "Sin título.base",
     "picoCTF/Competencia1",
-    "picoCTF/14 - Forensic 2",
     "Pasted image 20260309090034.png",
     "Pasted image 20260309090038.png"
   ]
