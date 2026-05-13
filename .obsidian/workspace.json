@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/22 - Reversing Parte 2/6 - timer.md",
+                "file": "picoCTF/19 - Crypto 3/Mini RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - timer"
+              "title": "Mini RSA"
             }
           }
         ]
@@ -185,8 +185,21 @@
   },
   "active": "6bbeee4319219b0c",
   "lastOpenFiles": [
-    "picoCTF/22 - Reversing Parte 2/5 - Safe Opener 2.md",
+    "Pasted image 20260513163924.png",
+    "picoCTF/19 - Crypto 3/Mind your Ps and Qs.md",
+    "Pasted image 20260513163121.png",
+    "picoCTF/19 - Crypto 3/b00tl3gRSA3.md",
+    "Pasted image 20260513161725.png",
+    "picoCTF/19 - Crypto 3/b00tl3gRSA2.md",
+    "Pasted image 20260513160953.png",
+    "Pasted image 20260513160948.png",
+    "picoCTF/19 - Crypto 3/Mini RSA.md",
+    "plantilla.md",
+    "picoCTF/16.1 - Tarea 4 Forensic/plantilla 1.md",
     "picoCTF/22 - Reversing Parte 2/6 - timer.md",
+    "picoCTF/19 - Crypto 3",
+    "picoCTF/15 - Forensic 3/19 - Crypto 3",
+    "picoCTF/22 - Reversing Parte 2/5 - Safe Opener 2.md",
     "picoCTF/22 - Reversing Parte 2/4 - Picker IV.md",
     "picoCTF/22 - Reversing Parte 2/3 - Picker III.md",
     "picoCTF/22 - Reversing Parte 2/2 - Picker II.md",
@@ -198,7 +211,6 @@
     "picoCTF/21 - Reversing Parte 1/3 - vault-door-3.md",
     "Pasted image 20260429084654.png",
     "picoCTF/21 - Reversing Parte 1/2 - vault-door-1.md",
-    "plantilla.md",
     "Pasted image 20260426174029.png",
     "picoCTF/20.1 -Tarea 4 - Crypto/Vigenere.md",
     "picoCTF/21 - Reversing Parte 1",
@@ -211,26 +223,14 @@
     "picoCTF/20.1 -Tarea 4 - Crypto/rail-fence.md",
     "picoCTF/20.1 -Tarea 4 - Crypto/morse-code.md",
     "Pasted image 20260426171135.png",
-    "Pasted image 20260426171118.png",
     "picoCTF/20.1 -Tarea 4 - Crypto/hashcrack.md",
     "picoCTF/20.1 -Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
-    "Pasted image 20260426165324.png",
-    "picoCTF/20.1 -Tarea 4 - Crypto/credstuff.md",
-    "picoCTF/20.1 -Tarea 4 - Crypto/Crack the Power.md",
-    "picoCTF/20 - Retos Crypto 4/5 - flags.md",
     "picoCTF/20.1 -Tarea 4 - Crypto",
-    "Pasted image 20260422142457.png",
-    "Pasted image 20260422142047.png",
-    "picoCTF/20 - Retos Crypto 4/4 - ReadMyCert.md",
-    "picoCTF/20 - Retos Crypto 4/3 - HideToSee.md",
-    "picoCTF/20 - Retos Crypto 4/2 - basic-mod1.md",
     "picoCTF/20 - Retos Crypto 4",
     "picoCTF/18 - Retos Crypto 2",
     "picoCTF/17 - Crypto",
     "picoCTF/16.1 - Tarea 4 Forensic",
     "picoCTF/16 -Forensic 4",
-    "picoCTF/Examen1",
-    "picoCTF/15 - Forensic 3",
     "Sin título.canvas"
   ]
 }
